@@ -33,5 +33,15 @@
 |模块|详细内容|负责人|
 |---|---|---|
 |爬虫|爬取51job招聘网数据，以及各城市物价、房价、消费等信息|zhang + wu|
-|建模和调参、机器学习|主要根据招聘网数据进行建模、预测薪资|du + cao|
+|建模和调参、机器学习|根据招聘网的暂时数据，进行预测薪资模型的选择和调参|du + cao|
 |web开发|前后端开发|li + liu|
+
+### 参考博客和项目
+
+[51job数据爬取和分析](https://blog.csdn.net/weixin_42179320/article/details/88808840)
+
+[城市房价+薪资分析项目](https://github.com/jiangwei1995910/getAwayBSG)
+
+[城市生活消费水平](https://www.ceicdata.com/zh-hans/china/resident-consumption-level/resident-consumption-level-urban)
+
+[数据获取和模型训练项目](https://github.com/brandonchow1997/data-science-salary-forecast)
